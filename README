@@ -1,0 +1,2 @@
+This program changes detects change in the ip of the active network device and ascertains the location within BITS Goa, based on the ip, and sets the
+system-wide & apt.conf proxies accordingly.
