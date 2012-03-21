@@ -143,7 +143,7 @@ def setVars():
 				
 			
 			
-		current_location_settings=locationSettings('http://'+pIp,pPort,'','','10.1.1.224','3142')
+		current_location_settings=locationSettings('http://'+pIp,pPort,username,password,'10.1.1.224','3142')
 		
 		
 	else:#Datacard or home net or anything else which doesn't need proxies...
