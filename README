@@ -1,2 +1,5 @@
 This program changes detects change in the ip of the active network device and ascertains the location within BITS Goa, based on the ip, and sets the
-system-wide & apt.conf proxies accordingly.
+system-wide & apt.conf proxies accordingly. The gnome version uses gconf and KDE version use KConfig
+
+Gnome users: Use gautoproxy.py
+KDE Users : Use kautoproxy.py
